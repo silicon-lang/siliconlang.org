@@ -11,6 +11,7 @@ fn main() {
     let boolean1: bool = false;
     let boolean2 = true;
 }
+
 ```
 {% endcode %}
 
@@ -29,6 +30,7 @@ fn main() {
     const boolean1: bool = false;
     const boolean2 = true;
 }
+
 ```
 {% endcode %}
 
