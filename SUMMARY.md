@@ -10,7 +10,9 @@
 * [Comments](documents/comments.md)
 * [Control Flow](documents/control-flow.md)
 * [Operators](documents/operators.md)
+* [Interfaces](documents/interfaces.md)
 * [Classes](documents/classes.md)
+* [Modules](documents/modules.md)
 
 ---
 
