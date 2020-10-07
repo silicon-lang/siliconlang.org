@@ -14,5 +14,5 @@
 
 ---
 
-* [Source](https://github.com/silicon-lang/silicon)
+* [Source Code](https://github.com/silicon-lang/silicon)
 
